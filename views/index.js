@@ -2,4 +2,4 @@ var server = require("../controllers/server"),
 	router = require("../controllers/router");
 
 
-server.start();
+server.start(router.route);
