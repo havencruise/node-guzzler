@@ -4,6 +4,7 @@ node-guzzler
 node-guzzler is a simple hello world application written in Node.js
 
 Install instructions:
+
 	1. Setup a virtual-env as your python environment - 
 	   "bin/create_environment.py" which will also install 'nodeenv'.
 	   The environment will be installed in env/
