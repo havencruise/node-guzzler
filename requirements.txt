@@ -1,0 +1,3 @@
+# Default requirements
+
+nodeenv==0.6.0
